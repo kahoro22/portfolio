@@ -128,8 +128,8 @@ body{
     color: var(--bg-color);
 }
 .submit-btn:hover{
-    background-color: var(--other-color);
-    color: var(--bg-color);
+        background-color: var(--other-color);
+    color: var(--main-color);
 }
 .form-label{
     color: var(--main-color);
